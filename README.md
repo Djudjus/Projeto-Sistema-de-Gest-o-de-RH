@@ -25,6 +25,6 @@ O sistema segue as seguintes regras de negócio:
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/Djudjus/Projeto-Sistema-de-Gest-o-de-RH.git](https://github.com/Djudjus/Projeto-Sistema-de-Gest-o-de-RH.git)
 
 Desenvolvido por Pedro Eduardo – 
